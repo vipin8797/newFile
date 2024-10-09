@@ -3,3 +3,6 @@
 #And then afeter saving , staging ,comminting we finnaly add to it the origin repositrory.
 
 #dot addet in last.
+
+
+#This is done in feature branch.
